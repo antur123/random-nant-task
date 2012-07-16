@@ -1,7 +1,7 @@
 random-nant-task
 ================
 
-This is an implementation of a Random task for NAnt.  By calling this task from NAnt a random number is obtained.  
+This is an implementation of a Random task for NAnt.  By calling this task from NAnt a random string is obtained.  
 
 Usage
 -----
